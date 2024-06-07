@@ -1,0 +1,12 @@
+
+require "config.harpoon"
+require "config.undotree"
+require "config.lualine"
+require "config.keybindings"
+require "config.fugitive"
+require "config.options"
+require "config.autocmd"
+require "config.telescope"
+require "config.colorscheme"
+require "config.treesitter"
+require "plugins"
